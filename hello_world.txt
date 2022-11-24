@@ -1,0 +1,2 @@
+I'm learning about GIT using the free courses offered at TheOdinProject.
+I am very impressed by the quality so far.
